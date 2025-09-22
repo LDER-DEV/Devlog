@@ -1,0 +1,43 @@
+Weekly Devlog 9.15-9.21
+
+💻 Projects Worked On 
+
+Pinterest Clone – Continued progress on building out core functionality.
+
+EchoTutor – A spaced repetition learning app that uses AI for question generation. This week I worked on deployment with Vercel, refining the product requirements, and experimenting with frontend scaffolding.
+------------------------------------------------
+🔑 Key Accomplishments
+
+Began using MCPs within Cursor to streamline development workflows. The Vercel MCP was especially helpful in deploying EchoTutor with less manual setup.
+
+Drafted and refined a Product Requirements Document (PRD) for EchoTutor. This helped me set a clear direction for the project, and I found the process to be a game changer in reducing tension during development.
+
+Leveraged v0 for initial frontend creation, which sped up prototyping and gave me a strong foundation to iterate on.
+
+Completed NeetCode challenges 1–5 on arrays. This gave me hands-on practice with array data structures, and while I felt comfortable with most solutions, I identified optimization concepts I need to revisit.
+------------------------------------------------
+📚 Learnings
+
+AI tools are highly effective but only when given the right specificity and context. I also learned that providing too much context can negatively affect prompt efficiency.
+
+The PRD process reinforced the value of planning ahead—having foresight made development smoother and gave me confidence in decision-making.
+
+My struggles with TailwindCSS highlighted the importance of fully understanding the tools I’m using. Styling still feels unintuitive, and dependency/version mismatches slowed me down.
+
+I ran into issues with PDF text extraction for EchoTutor. Converting extracted text into structured questions for flashcards is proving to be more complex than expected.
+------------------------------------------------
+⏸️Challenges / Blockers
+
+TailwindCSS: Still getting used to the styling system and running into dependency/version conflicts.
+
+AI-assisted code generation: Some technologies suggested by AI lacked the context I needed, leading to implementation issues.
+
+PDF processing: Finding reliable ways to extract text and feed it into the AI question-generation pipeline.
+------------------------------------------------
+⏭️ Next Steps
+
+Research alternative approaches to uploading and parsing documents (like PDFs) for EchoTutor.
+
+Spend focused time studying TailwindCSS fundamentals, with the goal of reducing blockers in future sprints.
+
+Continue with NeetCode challenges, with an emphasis on learning and applying optimization techniques.
